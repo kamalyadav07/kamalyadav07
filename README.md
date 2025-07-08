@@ -2,7 +2,7 @@
 
 🎓 CSE (Data Science) Undergraduate  
 💻 Aspiring Full Stack Developer & Data Analyst  
-🚀 Passionate about solving real-world problems with code and building scalable, data-driven solutions.
+🚀 Passionate about solving real-world problems through code and building scalable, data-driven solutions.
 
 ---
 
@@ -86,6 +86,18 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kamal_yadav?theme=dark&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+<!-- Snake Animation & Profile Counter (No Heading) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamalyadav07/kamalyadav07/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalyadav07&label=Profile%20Views&color=green&style=flat" alt="Profile View Counter" />
 </p>
 
 ---
