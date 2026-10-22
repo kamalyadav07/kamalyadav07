@@ -105,7 +105,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamal%20Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kamalyadav07)  
-✉️ kamalyadav07@gmail.com
+✉️ kamalyadav1559@gmail.com
 
 ---
 
