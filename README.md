@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Kamal Yadav
+# 👋 Hi, I'm Kamal Yadav 
 
-🎓 CSE (Data Science) Undergraduate  
-💻 Aspiring Full Stack Developer & Data Analyst  
+kamalyadav1559@gmail.com
+🎓 CSE  Undergraduate  
+💻 Full Stack Developer & Data Analyst  
 🚀 Passionate about solving real-world problems through code and building scalable, data-driven solutions.
 
 ---
